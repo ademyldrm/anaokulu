@@ -1,0 +1,5 @@
+C:\Users\sa\Documents\GitHub\anaokulu\ChanStdd\ChanStdd\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sa\Documents\GitHub\anaokulu\ChanStdd\ChanStdd\obj\x86\Debug\AnaOkuluBilisim.ChangePassword.resources
+C:\Users\sa\Documents\GitHub\anaokulu\ChanStdd\ChanStdd\obj\x86\Debug\ChanStdd.Properties.Resources.resources
+C:\Users\sa\Documents\GitHub\anaokulu\ChanStdd\ChanStdd\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sa\Documents\GitHub\anaokulu\ChanStdd\ChanStdd\obj\x86\Debug\GenerateResource.write.1.tlog
