@@ -1,0 +1,5 @@
+C:\Users\sa\Documents\GitHub\anaokulu\ListeForm.Designer 2\ListeForm.Designer 2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sa\Documents\GitHub\anaokulu\ListeForm.Designer 2\ListeForm.Designer 2\obj\x86\Debug\ListeForm.Designer_2.Form1.resources
+C:\Users\sa\Documents\GitHub\anaokulu\ListeForm.Designer 2\ListeForm.Designer 2\obj\x86\Debug\ListeForm.Designer_2.Properties.Resources.resources
+C:\Users\sa\Documents\GitHub\anaokulu\ListeForm.Designer 2\ListeForm.Designer 2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sa\Documents\GitHub\anaokulu\ListeForm.Designer 2\ListeForm.Designer 2\obj\x86\Debug\GenerateResource.write.1.tlog
