@@ -1,0 +1,5 @@
+C:\Users\sa\Documents\GitHub\anaokulu\OgrDuzenle\OgrDuzenle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sa\Documents\GitHub\anaokulu\OgrDuzenle\OgrDuzenle\obj\x86\Debug\OgrDuzenle.Form1.resources
+C:\Users\sa\Documents\GitHub\anaokulu\OgrDuzenle\OgrDuzenle\obj\x86\Debug\OgrDuzenle.Properties.Resources.resources
+C:\Users\sa\Documents\GitHub\anaokulu\OgrDuzenle\OgrDuzenle\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sa\Documents\GitHub\anaokulu\OgrDuzenle\OgrDuzenle\obj\x86\Debug\GenerateResource.write.1.tlog
