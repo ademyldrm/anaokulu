@@ -6,17 +6,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.ogrenciİToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.öğrencilerToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.öğrencilerToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
-            this.personelİşlemleriToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.personelKayıtToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.sınıflarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.sınıfEkleToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.demirbaşlarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.demirbaşKayıtToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.yoklamalarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            
             this.yoklamaEkleToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.yemekToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.yemeklerToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
